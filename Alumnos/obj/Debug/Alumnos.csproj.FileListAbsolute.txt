@@ -1,0 +1,2 @@
+C:\Users\ricopo\Desktop\PRACTICAS ENTORNOS\Alumnos\Alumnos\bin\Debug\Alumnos.exe.config
+C:\Users\ricopo\Desktop\PRACTICAS ENTORNOS\Alumnos Git\Alumnos\bin\Debug\Alumnos.exe.config
