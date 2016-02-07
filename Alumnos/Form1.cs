@@ -36,7 +36,7 @@ namespace Alumnos
         {
             int numero = int.Parse(textBox1.Text);
             AñadirFuncionalidad(numero);
-            MessageBox.Show("Funcionalidad añadida al proyecto");
+            MessageBox.Show("Funcionalidad añadida al proyecto - Texto añadido para ver si funciona");
         }
     }
 }
